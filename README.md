@@ -1,0 +1,2 @@
+# TRACEON-An-infrastructure-independent-emergency-and-immediate-communication-system
+TRACEON is a Streamlit-based Disaster Rescue and Communication System featuring SOS alerts, family management, communication node monitoring, route tracking, rescue team allocation, and data analytics. Built using Python, Pandas, NumPy, Matplotlib, and Seaborn. GPS-free prototype with no AI/ML. Hardware integration is pending.
